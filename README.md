@@ -3,6 +3,8 @@
 This is the accompanying code repository for our paper *"DFuseNet: Deep Fusion
 of RGB and Sparse Depth Information for Image Guided Dense Depth Completion"*
 
+ARXIV: https://arxiv.org/pdf/1902.00761.pdf
+
 
 ![](imgs/dfusenet_net.png)
 
@@ -14,8 +16,8 @@ If you use this work, please cite our paper:
 @article{shivakumar2018deepfuse,
   title={DFuseNet: Deep Fusion of RGB and Sparse Depth Information for Image Guided Dense Depth Completion},
   author={Shivakumar, Shreyas S and Nguyen, Ty and Chen, Steven W. and Taylor, Camillo J},
-  journal={add this after arxiv},
-  year={2018}
+  journal={https://arxiv.org/pdf/1902.00761.pdf},
+  year={2019}
 }
 ```
 
