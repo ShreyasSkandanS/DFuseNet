@@ -15,7 +15,7 @@ If you use this work, please cite our paper:
 ```
 @article{shivakumar2018deepfuse,
   title={DFuseNet: Deep Fusion of RGB and Sparse Depth Information for Image Guided Dense Depth Completion},
-  author={Shivakumar, Shreyas S and Nguyen, Ty and Chen, Steven W. and Taylor, Camillo J},
+  author={Shivakumar, Shreyas S and Nguyen, Ty and Miller, Ian D. and Chen, Steven W. and Taylor, Camillo J},
   journal={https://arxiv.org/pdf/1902.00761.pdf},
   year={2019}
 }
