@@ -121,6 +121,7 @@ calib.yaml - homogeneous transformation matrix between ZED Mini and Ouster OS-1
 **Example Data:**
 
 0. Setup Visualization
+
 ![](/imgs/ousterzed_setup.JPG)
 
 1. Input RGB Image:
