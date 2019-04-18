@@ -106,6 +106,35 @@ mean squared relative: 0.0035435
 
 Coming soon..
 
+### Penn Drive Mini-Dataset
+
+The set of hand picked LiDAR and RGB images can be downloaded [here](https://www.dropbox.com/s/8omowkn0iua4avc/penndrive2019.zip?dl=0).
+
+This folder contains 264 image pairs extracted from the original 8 minute drive. If you require the whole rosbag of our drive, please contact us and we'll be happy to provide you with all the data.
+```
+lidar/lidar{0..1299}.png - sparse lidar points projected on camera frame, scaled by 256.0, saved as 16bit .png (same as KITTI)
+rgb/image{0..1299}.png - color image
+viz/overlay{0..1299}.png - visualization of projected points
+calib.yaml - homogeneous transformation matrix between ZED Mini and Ouster OS-1
+```
+
+**Example Data:**
+
+1. Input RGB Image:
+
+![](/imgs/image482_rgb.png)
+
+2. LiDAR Projected Onto RGB Image:
+
+![](/imgs/overlay482.png)
+
+3. Predicted Depth Image using 5000 LiDAR points:
+
+![](/imgs/lidar482_depth.png)
+
+4. Error Image using remaining ~35,000 LiDAR points as GT:
+
+![](/imgs/lidar482_error.png)
 
 ### Paper Media
 
