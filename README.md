@@ -3,11 +3,13 @@
 This is the accompanying code repository for our paper *"DFuseNet: Deep Fusion
 of RGB and Sparse Depth Information for Image Guided Dense Depth Completion"*
 
+**UPDATE July 2019:**
+
+This paper has been accepted for presentation at ITSC 2019 - the 22nd Intelligent Transportation Systems Conference to be held in Auckland, NZ later this year. The arXiv submission has been updated to reflect the latest version of this work.
+
 ARXIV: https://arxiv.org/pdf/1902.00761.pdf
 
-
 ![](imgs/dfusenet_net.png)
-
 
 ### Reference
 
@@ -15,7 +17,7 @@ If you use this work, please cite our paper:
 ```
 @article{shivakumar2018deepfuse,
   title={DFuseNet: Deep Fusion of RGB and Sparse Depth Information for Image Guided Dense Depth Completion},
-  author={Shivakumar, Shreyas S and Nguyen, Ty and Miller, Ian D. and Chen, Steven W. and Taylor, Camillo J},
+  author={Shivakumar, Shreyas S and Nguyen, Ty and Miller, Ian D. and Chen, Steven W. and Kumar, Vijay and Taylor, Camillo J},
   journal={https://arxiv.org/pdf/1902.00761.pdf},
   year={2019}
 }
