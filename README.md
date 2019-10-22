@@ -9,6 +9,8 @@ This paper has been accepted for presentation at ITSC 2019 - the 22nd Intelligen
 
 ARXIV: https://arxiv.org/pdf/1902.00761.pdf
 
+![](imgs/dfusenet_1.gif)
+
 ![](imgs/dfusenet_net.png)
 
 ### Reference
@@ -102,6 +104,10 @@ mean squared relative: 0.0035435
 
 ![](/imgs/test_pred.png)
 ![](/imgs/test_error.png)
+
+#### KITTI Depth Completion Validation Set
+
+[![Alt text](https://img.youtube.com/vi/LC-_Z7PTIS4/0.jpg)](https://www.youtube.com/watch?v=LC-_Z7PTIS4)
 
 
 ### Training the Network
